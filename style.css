@@ -6,6 +6,7 @@
   cursor: pointer;
   font-family:"Nunito", sans-serif;
 outline: none;
+  overflow: hidden;
 }
 section{
   width: 100vw;
