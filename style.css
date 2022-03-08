@@ -5,6 +5,7 @@
   box-sizing: border-box;
   cursor: pointer;
   font-family:"Nunito", sans-serif;
+outline: none;
 }
 section{
   width: 100vw;
