@@ -79,7 +79,8 @@ section{
     font-family: "Nunito", sans-serif;
   }
   .hero-section{
-    max-width: 100%;
+    width: 100vw;
+    height: 100vh;
   }
   .toggle-button {
     display: flex;
